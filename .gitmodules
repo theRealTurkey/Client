@@ -1,3 +1,3 @@
-[submodule "Assets/Scripts/Brisk"]
-	path = Assets/Scripts/Brisk
-	url = https://github.com/Dyhr/Brisk.git
+[submodule "Assets/Plugins/Brisk"]
+	path = Assets/Plugins/Brisk
+	url = https://github.com/brisk-technologies/brisk-networking.git
