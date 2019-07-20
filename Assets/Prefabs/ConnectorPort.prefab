@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 3528131176210074558}
   - component: {fileID: 114740296232231170}
   m_Layer: 0
-  m_Name: ConnectorPort (1)
+  m_Name: ConnectorPort
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40,7 +40,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3528131176210074552}
-  m_Mesh: {fileID: 4300100, guid: cd429ac8a4c2dd04ea42c338ecc79c98, type: 3}
+  m_Mesh: {fileID: -5125063765004875305, guid: 086cb5bf8f8ee4c40af296882fa472b3, type: 3}
 --- !u!23 &3528131176210074558
 MeshRenderer:
   m_ObjectHideFlags: 0

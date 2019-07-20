@@ -44,7 +44,7 @@ MeshFilter:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4987499464627473705}
-  m_Mesh: {fileID: 4300294, guid: cd429ac8a4c2dd04ea42c338ecc79c98, type: 3}
+  m_Mesh: {fileID: 8918077550557095614, guid: 12f0573e9d7289d46b3c90a892071093, type: 3}
 --- !u!23 &4987499464627473718
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -95,7 +95,7 @@ MeshCollider:
   serializedVersion: 3
   m_Convex: 1
   m_CookingOptions: 14
-  m_Mesh: {fileID: 4300294, guid: cd429ac8a4c2dd04ea42c338ecc79c98, type: 3}
+  m_Mesh: {fileID: 8918077550557095614, guid: 12f0573e9d7289d46b3c90a892071093, type: 3}
 --- !u!54 &4987499464627473716
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -124,9 +124,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f6c10f8adc7e9ed49a7c92103e496873, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  generatedIcon: {fileID: 0}
   size: 2
-  PickPosition: {x: 0, y: 0, z: 0}
-  PickRotation: {x: 0, y: 0, z: 0}
+  pickPosition: {x: 0, y: 0, z: 0}
+  pickRotation: {x: 0, y: 0, z: 0}
+  iconRotation: {x: 0, y: 0, z: 0}
 --- !u!114 &4987499464627473706
 MonoBehaviour:
   m_ObjectHideFlags: 0
